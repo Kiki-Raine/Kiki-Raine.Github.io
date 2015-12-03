@@ -16,9 +16,10 @@ a:hover {
 }
 
 #wrapper {
-  max-width: 940px;
+  max-width: 400px;
   margin: 0 auto;
   padding: 0 5%;
+  float: left;
 }
 
 #images li {
